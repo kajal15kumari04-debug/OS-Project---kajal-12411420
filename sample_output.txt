@@ -1,0 +1,5 @@
+Example event log:
+[SEND] Producer P1 sent data to channel
+[RECV] Consumer C1 received data from channel
+[OVERFLOW] Producer attempted to send but buffer was full
+Bottleneck detected...
